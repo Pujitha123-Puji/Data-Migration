@@ -46,6 +46,10 @@ When using pgLoader, you may encounter some common issues. Here are a few troubl
 **Conclusion**:
 In this example, we used pgLoader to transfer the employee table from a MySQL database to a PostgreSQL database. pgLoader provides a powerful and flexible way to transfer data between different databases, making it an ideal tool for data migration and integration tasks.
 By following these steps and troubleshooting common issues, you can use pgLoader to transfer data between MySQL and PostgreSQL databases with ease
+**OUTPUT**:
+  ![Image](https://github.com/user-attachments/assets/87d03f29-c0fc-4617-af68-5d37b50053fa)
+
+![Image](https://github.com/user-attachments/assets/3d11c2e5-9642-428c-9c95-d12af147811e)
 
 
 
